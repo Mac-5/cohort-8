@@ -71,7 +71,7 @@ wallet/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Mac-5/cohort-8/tree/submission/assignment-06/Mac-5
 cd wallet
 
 # Build the project
