@@ -1,6 +1,3 @@
-Here's a comprehensive README for your Ethereum HD Wallet project:
-
-```markdown
 # 🔐 Ethereum HD Wallet - Rust Implementation
 
 A complete hierarchical deterministic (HD) wallet implementation in Rust for Ethereum, supporting BIP39 mnemonic generation, BIP32 key derivation, and Sepolia testnet interactions.
@@ -37,7 +34,6 @@ A complete hierarchical deterministic (HD) wallet implementation in Rust for Eth
 - **Robust RPC Handling**: Automatic failover between multiple RPC endpoints
 
 ## 📁 Project Structure
-```
 
 wallet/
 ├── wallet-core/ # Core wallet library
@@ -62,8 +58,6 @@ wallet/
 │ └── main.rs
 └── Cargo.toml
 
-````
-
 ## 🚀 Installation
 
 ### Prerequisites
@@ -84,7 +78,7 @@ cargo build --release
 # Run the CLI
 cd wallet-cli
 cargo run
-````
+```
 
 ## 💻 Usage
 
