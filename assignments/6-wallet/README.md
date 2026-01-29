@@ -35,6 +35,7 @@ A complete hierarchical deterministic (HD) wallet implementation in Rust for Eth
 
 ## 📁 Project Structure
 
+```text
 wallet/
 ├── wallet-core/ # Core wallet library
 │ ├── src/
@@ -57,6 +58,7 @@ wallet/
 ├── src/
 │ └── main.rs
 └── Cargo.toml
+```
 
 ## 🚀 Installation
 
